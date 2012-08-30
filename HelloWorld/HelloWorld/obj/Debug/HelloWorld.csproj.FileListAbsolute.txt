@@ -1,0 +1,10 @@
+D:\Libraries\Projects\Avanade\HelloWorld\HelloWorld\bin\HelloWorld.dll
+D:\Libraries\Projects\Avanade\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+D:\Libraries\Projects\Avanade\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\Libraries\Projects\Avanade\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+D:\Libraries\Projects\Avanade\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Libraries\Projects\ASP.NETProgramming\HelloWorld\HelloWorld\bin\HelloWorld.dll
+D:\Libraries\Projects\ASP.NETProgramming\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+D:\Libraries\Projects\ASP.NETProgramming\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\Libraries\Projects\ASP.NETProgramming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+D:\Libraries\Projects\ASP.NETProgramming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
