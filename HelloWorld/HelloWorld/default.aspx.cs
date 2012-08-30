@@ -18,7 +18,7 @@ namespace HelloWorld
         {
             //Label1.Text = "Lollero!";
             var time = DateTime.Now.AddDays(7);
-            Label1.Text = time.ToShortDateString() + " "+time.ToLongTimeString();
+            Label1.Text = time.ToLongDateString() + " "+time.ToLongTimeString();
         }
     }
 }
