@@ -13,5 +13,10 @@ namespace HelloWorld.subpages
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Label1.Text = DateTime.Now.AddDays(7).ToLongDateString();
+        }
     }
 }

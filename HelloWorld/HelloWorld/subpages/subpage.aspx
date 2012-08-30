@@ -10,6 +10,8 @@
     <form id="form1" runat="server">
     <div>
         <h1>Subpage</h1>
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label><br />
+        <asp:Button ID="Button1" runat="server" Text="Button" onclick="Button1_Click" />
     </div>
     </form>
 </body>
