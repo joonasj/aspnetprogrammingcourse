@@ -17,8 +17,7 @@ namespace HelloWorld
         protected void Button1_Click(object sender, EventArgs e)
         {
             //Label1.Text = "Lollero!";
-            var time = DateTime.Now.AddDays(7);
-            Label1.Text = time.ToLongDateString() + " "+time.ToLongTimeString();
+            Label1.Text = System.DateTime.Now.ToLongDateString();
         }
     }
 }
