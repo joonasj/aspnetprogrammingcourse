@@ -1,0 +1,5 @@
+D:\Libraries\Projects\ASP.NETProgramming\aspnetweek36\aspnetweek36\bin\aspnetweek36.dll
+D:\Libraries\Projects\ASP.NETProgramming\aspnetweek36\aspnetweek36\bin\aspnetweek36.pdb
+D:\Libraries\Projects\ASP.NETProgramming\aspnetweek36\aspnetweek36\obj\Debug\ResolveAssemblyReference.cache
+D:\Libraries\Projects\ASP.NETProgramming\aspnetweek36\aspnetweek36\obj\Debug\aspnetweek36.dll
+D:\Libraries\Projects\ASP.NETProgramming\aspnetweek36\aspnetweek36\obj\Debug\aspnetweek36.pdb
