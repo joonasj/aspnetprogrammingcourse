@@ -11,7 +11,7 @@ namespace aspnetweek36
     {
         protected void Page_PreInit(object sender, EventArgs e)
         {
-
+            System.Diagnostics.Debug.WriteLine("Page_PreInit.");
         }
 
         protected void Page_Init(object sender, EventArgs e)
