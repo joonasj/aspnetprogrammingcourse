@@ -11,6 +11,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
+        <asp:Label ID="Label1" runat="server" Text="Label">Hello there</asp:Label>
         <asp:ContentPlaceHolder ID="mainContent" runat="server">
         
         </asp:ContentPlaceHolder>

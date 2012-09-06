@@ -13,5 +13,15 @@ namespace aspnetweek36
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            if (txtSubmitText.Text != string.Empty)
+            {
+                Session["userName"] = txtSubmitText.Text;
+                Label hello = (Label) Master.FindControl("Label1");
+                hello.Text = string.Format("hello {0}", Session["userName"]);
+            }
+        }
     }
 }

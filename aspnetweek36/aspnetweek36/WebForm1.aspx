@@ -8,6 +8,6 @@
         <asp:ListItem>Master</asp:ListItem>
         <asp:ListItem>Master2</asp:ListItem>
     </asp:DropDownList>
-    <asp:Button ID="Button1" runat="server" Text="Button" />
+    <asp:Button ID="Button1" runat="server" Text="Button" onclick="Button1_Click" />
 
 </asp:Content>
