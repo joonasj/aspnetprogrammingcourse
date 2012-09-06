@@ -11,6 +11,16 @@ namespace aspnetweek36
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            
+
+        }
+
+        protected void Page_PreInit(object sender, EventArgs e)
+        {
+            if (Session["template"] != null)
+            {
+                MasterPageFile = string.Format("~/{0}.master", (String)Session["template"]);
+            }
 
         }
 
@@ -23,5 +33,16 @@ namespace aspnetweek36
                 hello.Text = string.Format("hello {0}", Session["userName"]);
             }
         }
+
+        protected void dropdownList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (dropdownList.SelectedValue != "Valitse master")
+            {
+                Session["template"] = dropdownList.SelectedValue;
+                Server.Transfer(Request.Path);
+            }
+        }
+
+        
     }
 }
