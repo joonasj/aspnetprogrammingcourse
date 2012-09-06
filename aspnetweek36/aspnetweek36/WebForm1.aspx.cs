@@ -10,11 +10,7 @@ namespace aspnetweek36
     public partial class WebForm1 : System.Web.UI.Page
     {
 
-        protected void Page_PreInit(object sender, EventArgs e)
-        {
-
-
-        }
+        
 
         protected void Page_Init(object sender, EventArgs e)
         {
