@@ -8,3 +8,8 @@ D:\Libraries\Projects\ASP.NETProgramming\HelloWorld\HelloWorld\bin\HelloWorld.pd
 D:\Libraries\Projects\ASP.NETProgramming\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
 D:\Libraries\Projects\ASP.NETProgramming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
 D:\Libraries\Projects\ASP.NETProgramming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+F:\Libraries\Project\aspnetprogramming\aspnetprogrammingcourse\HelloWorld\HelloWorld\bin\HelloWorld.dll
+F:\Libraries\Project\aspnetprogramming\aspnetprogrammingcourse\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+F:\Libraries\Project\aspnetprogramming\aspnetprogrammingcourse\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+F:\Libraries\Project\aspnetprogramming\aspnetprogrammingcourse\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+F:\Libraries\Project\aspnetprogramming\aspnetprogrammingcourse\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
