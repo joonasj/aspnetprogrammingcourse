@@ -15,6 +15,11 @@ namespace aspnetweek36
 
         }
 
+        protected void Page_PreRender(object sender, EventArgs e)
+        {
+            dropdownList.SelectedValue = (String)Session["template"];
+        }
+
         protected void Page_PreInit(object sender, EventArgs e)
         {
             if (Session["template"] != null)
