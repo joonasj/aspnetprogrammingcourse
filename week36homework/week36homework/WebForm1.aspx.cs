@@ -21,7 +21,8 @@ namespace week36homework
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-
+            HiddenField1.Value = TextBox1.Text;
+            Server.Transfer(Request.Path);
         }
     }
 }
